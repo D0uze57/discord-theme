@@ -1,0 +1,63 @@
+.avatarWrapper-1B9FTW{
+    z-index: 10 !important;
+    left: 19px !important;
+    bottom: 130px !important;
+}
+
+:root .chat-2ZfjoI .form-3gdLxP {
+    padding-left: 16px  !important;
+}
+
+:root .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .scrollableContainer-15eg7h::after,
+:root .chat-2ZfjoI .form-3gdLxP .wrapper-2SplAX::after,
+.bannerSVGWrapper-qc0szY mask circle,
+.container-3Csys8, button-ejjZWC {
+    content: none;
+    display: none;
+}
+
+.accountProfilePopoutWrapper-3GskID {
+    left: 250px;
+    top: 40px;
+}
+
+.avatar-2e8lTP{
+  border-radius: 8px;
+}
+
+////////////////////////////////////////////////////
+
+:root .guilds-2JjMmN .scroller-3X7KbA {
+  contain: none !important;
+}
+:root .expandedFolderBackground-1kSAf6 {
+  border-radius: 8px;
+}
+
+:root .wrapper-2PSQCG foreignObject {
+  mask: none;
+  -webkit-mask: none;
+}
+:root .wrapperSimple-2SFl9K {
+  overflow: visible;
+}
+:root .wrapperSimple-2SFl9K,
+:root .wrapper-2PSQCG foreignObject,
+:root .folderIconWrapper-1oRIZr,
+:root .expandedFolderBackground-1kSAf6,
+:root .flexChild-3PzYmX .avatarUploaderInner-1Cp1oP {
+  border-radius: 8px;
+}
+:root .iconInactive-26M06U {
+  border-radius: calc(8px - 4px);
+}
+:root .wrapper-2PSQCG foreignObject {
+  transition: border-radius 200ms;
+}
+:root .wrapper-2PSQCG:hover foreignObject {
+  border-radius: calc(8px - 3px);
+}
+:root .container-2nx-BQ,
+:root .input-2XRLou {
+  border-radius: 5px;
+}
